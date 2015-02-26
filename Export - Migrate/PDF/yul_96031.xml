@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:96031"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Applewood Village : Can. Open Skateboard Surfer Championships [not used]"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="nruest"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2013-11-11T16:52:54.950Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-08-18T17:14:42.606Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2013-11-11T16:52:54.950Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD_FITS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2013-11-11T16:52:58.615Z</audit:date>
+<audit:justification>Copied datastream from yul:96031.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2013-11-11T16:52:59.316Z</audit:date>
+<audit:justification>Copied datastream from yul:96031.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PREVIEW</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2013-11-11T16:52:59.700Z</audit:date>
+<audit:justification>Copied datastream from yul:96031.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>FULL_TEXT</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2013-11-11T16:52:59.859Z</audit:date>
+<audit:justification>Copied datastream from yul:96031.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-02T04:02:06.144Z</audit:date>
+<audit:justification>PREMIS:eventType=fixity check; PREMIS:file=yul:96031+MODS+MODS.0; PREMIS:eventOutcome=SHA-1 checksum validated.  
+</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-02T04:02:06.220Z</audit:date>
+<audit:justification>PREMIS:eventType=fixity check; PREMIS:file=yul:96031+DC+DC.0; PREMIS:eventOutcome=SHA-1 checksum validated.  
+</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-02T04:02:06.343Z</audit:date>
+<audit:justification>PREMIS:eventType=fixity check; PREMIS:file=yul:96031+OBJ+OBJ.0; PREMIS:eventOutcome=SHA-1 checksum validated.  
+</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:46.188Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+RELS-EXT+RELS-EXT.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:46.469Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+MODS+MODS.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:46.648Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+DC+DC.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:46.867Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+OBJ+OBJ.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:47.040Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+TECHMD_FITS+TECHMD_FITS.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:47.256Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+TN+TN.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:47.459Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+PREVIEW+PREVIEW.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-13T22:05:47.583Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+FULL_TEXT+FULL_TEXT.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:40.683Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+RELS-EXT+RELS-EXT.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:41.044Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+MODS+MODS.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:41.291Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+DC+DC.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:42.517Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+OBJ+OBJ.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:42.710Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+TECHMD_FITS+TECHMD_FITS.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC21">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:42.894Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+TN+TN.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC22">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:43.193Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+PREVIEW+PREVIEW.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC23">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>anonymous</audit:responsibility>
+<audit:date>2014-01-22T21:07:43.502Z</audit:date>
+<audit:justification>PREMIS:file=yul:96031+FULL_TEXT+FULL_TEXT.0; PREMIS:eventType=fixity check; PREMIS:eventOutcome=SHA-1 checksum validated.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC24">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:40.658Z</audit:date>
+<audit:justification>Copied datastream from yul:96031.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC25">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:41.135Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC26">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:41.764Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC27">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:41.857Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC28">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:42.035Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC29">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:42.380Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC30">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>POLICY</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T17:14:42.606Z</audit:date>
+<audit:justification>Copied datastream from yul:96031.</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2013-11-11T16:52:54.950Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="529">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="211bedd6e2b92e99f12f986b3731282d18d73fa1"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:96031">
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_pdf"></fedora-model:hasModel>
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:F0433"></fedora:isMemberOfCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2013-11-11T16:52:54.950Z" MIMETYPE="text/xml" SIZE="2964">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="d64939885d3f6267ca924f5f95f32b264001510f"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:96031/MODS/2013-11-11T16:52:54.950Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2013-11-11T16:52:54.950Z" MIMETYPE="text/xml" SIZE="1589">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="c65a3b4a2af70f16b3b39d88db346448b06db201"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Applewood Village : Can. Open Skateboard Surfer Championships [not used]</dc:title>
+  <dc:subject>Toronto Telegram--Ontario--Locomotion--Skating</dc:subject>
+  <dc:description>[Canadian] Open Skateboard Surfer Championships</dc:description>
+  <dc:description>Image of front and back of negative envelope, and one contact sheet. Assignment: Canadian Open Skateboard Surfer Championships. Applewood Village Shopping Plaza.</dc:description>
+  <dc:description>ASC08303</dc:description>
+  <dc:description>ASC08303</dc:description>
+  <dc:publisher>Toronto Telegram</dc:publisher>
+  <dc:contributor>Kennedy (Photographer)</dc:contributor>
+  <dc:contributor>Toronto Telegram (Publisher)</dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:type>Documentary Photography</dc:type>
+  <dc:format>13 photographs : b&amp;amp;w negatives ; 35 mm + 1 envelope : 14.2 x 11 cm</dc:format>
+  <dc:format>nonprojected graphic</dc:format>
+  <dc:identifier>yul:96031</dc:identifier>
+  <dc:identifier>ASC08303</dc:identifier>
+  <dc:identifier>http://hdl.handle.net/10315/8075</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Toronto Telegram fonds, F0433</dc:relation>
+  <dc:rights>For further copyright information contact : ascproj@yorku.ca</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="OBJ datastream" CREATED="2013-11-11T16:52:54.950Z" MIMETYPE="application/pdf" SIZE="643752">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="cf85df047ceec346b6cafca08768139636e69168"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:96031/OBJ/2013-11-11T16:52:54.950Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD_FITS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD_FITS.0" LABEL="TECHMD_FITS" CREATED="2013-11-11T16:52:58.615Z" MIMETYPE="text/xml" SIZE="3209">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="7bc05b6fc00f509c0ae5a2a6b8a9a77077804985"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:96031/TECHMD_FITS/2013-11-11T16:52:58.615Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="TN" CREATED="2013-11-11T16:52:59.316Z" MIMETYPE="image/jpeg" SIZE="36505">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="a9b7d86f8253e6ba3a786c57a15842941c3df22d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:96031/TN/2013-11-11T16:52:59.316Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PREVIEW" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PREVIEW.0" LABEL="PREVIEW" CREATED="2013-11-11T16:52:59.700Z" MIMETYPE="image/jpeg" SIZE="177600">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6dab105f49ecb2146c1792b0be7e979d4c10ab25"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:96031/PREVIEW/2013-11-11T16:52:59.700Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="FULL_TEXT" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="FULL_TEXT.0" LABEL="FULL_TEXT" CREATED="2013-11-11T16:52:59.859Z" MIMETYPE="text/plain" SIZE="-1">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:96031/FULL_TEXT/2013-11-11T16:52:59.859Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-INT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-INT.0" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T17:14:40.658Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="280">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="4a27368db409a58696d0a191d8afad95f9c807ec"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:96031/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.1" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T17:14:41.135Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="348">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="c6c00107fcb4af827d048f9f040c2f39bc88fbf0"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:96031/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.2" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T17:14:41.764Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="421">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="41af1bbcf7d3ceb74d0ee541b7aedeb3e77e27d5"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:96031/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.3" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T17:14:41.857Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="496">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="63d03fb4823ab14bc632b29e88a7f1650003245a"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:96031/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+    <islandora:isViewableByRole>administrator</islandora:isViewableByRole>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.4" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T17:14:42.035Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="581">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="5179a881c4ab0263a75075dd7e8339cc2344d488"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:96031/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+    <islandora:isViewableByRole>administrator</islandora:isViewableByRole>
+    <islandora:isViewableByRole>Islandora administrator</islandora:isViewableByRole>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.5" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T17:14:42.380Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="660">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="f141c945a59047cf31c08067a4d4044c88a4922a"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:96031/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+    <islandora:isViewableByRole>administrator</islandora:isViewableByRole>
+    <islandora:isViewableByRole>Islandora administrator</islandora:isViewableByRole>
+    <islandora:isViewableByRole>Islandora creator</islandora:isViewableByRole>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="POLICY.0" LABEL="XACML Policy Stream" CREATED="2014-08-18T17:14:42.606Z" MIMETYPE="text/xml" SIZE="3519">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="2130409e41cbe7b4f11a48498d006e0ae4b52f30"/>
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule Effect="Deny" RuleId="deny-dsid-mime">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <Resource>
+          <ResourceMatch MatchId="urn:oasis:names:tc:xacml:1.0:function:string-equal">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">OBJ</AttributeValue>
+            <ResourceAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:resource:datastream:id" DataType="http://www.w3.org/2001/XMLSchema#string"></ResourceAttributeDesignator>
+          </ResourceMatch>
+        </Resource>
+      </Resources>
+      <Actions>
+        <Action>
+          <ActionMatch MatchId="urn:oasis:names:tc:xacml:1.0:function:string-equal">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">urn:fedora:names:fedora:2.1:action:id-getDatastreamDissemination</AttributeValue>
+            <ActionAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:action:id" DataType="http://www.w3.org/2001/XMLSchema#string"></ActionAttributeDesignator>
+          </ActionMatch>
+        </Action>
+      </Actions>
+    </Target>
+    <Condition FunctionId="urn:oasis:names:tc:xacml:1.0:function:not">
+      <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:or">
+        <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-at-least-one-member-of">
+          <SubjectAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:subject:loginId" DataType="http://www.w3.org/2001/XMLSchema#string" MustBePresent="false"></SubjectAttributeDesignator>
+          <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-bag">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">admin</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">nruest</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">fedoraAdmin</AttributeValue>
+          </Apply>
+        </Apply>
+        <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-at-least-one-member-of">
+          <SubjectAttributeDesignator AttributeId="fedoraRole" DataType="http://www.w3.org/2001/XMLSchema#string" MustBePresent="false"></SubjectAttributeDesignator>
+          <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-bag">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">administrator</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">Islandora administrator</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">Islandora creator</AttributeValue>
+          </Apply>
+        </Apply>
+      </Apply>
+    </Condition>
+  </Rule>
+  <Rule Effect="Permit" RuleId="allow-everything-else">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

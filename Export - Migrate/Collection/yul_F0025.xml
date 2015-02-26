@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:F0025"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="York University Faculty Association (YUFA)"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="astonge"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-02-13T22:07:14.738Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-02-13T22:34:32.643Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-02-13T22:07:14.738Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>astonge</audit:responsibility>
+<audit:date>2015-02-13T22:07:16.826Z</audit:date>
+<audit:justification>Copied datastream from yul:F0025.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>COLLECTION_POLICY</audit:componentID>
+<audit:responsibility>astonge</audit:responsibility>
+<audit:date>2015-02-13T22:08:43.107Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-02-13T22:19:07.623Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-02-13T22:19:08.295Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>astonge</audit:responsibility>
+<audit:date>2015-02-13T22:33:42.255Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>astonge</audit:responsibility>
+<audit:date>2015-02-13T22:33:42.912Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>astonge</audit:responsibility>
+<audit:date>2015-02-13T22:34:32.416Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>astonge</audit:responsibility>
+<audit:date>2015-02-13T22:34:32.643Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-02-13T22:07:14.738Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="537">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="8649a16150f9adb9d74ec56a3da4601f9679b8b9"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:F0025">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:asc"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:collectionCModel"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="COLLECTION_POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="COLLECTION_POLICY.0" LABEL="Collection policy" CREATED="2015-02-13T22:07:14.738Z" MIMETYPE="text/xml" SIZE="532">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="c7fac0d2d638a4e4c18111a39d93dbf47dbafdd7"/>
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model dsid="ISLANDORACM" name="Islandora Collection Content Model" namespace="yul" pid="islandora:collectionCModel"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="COLLECTION_POLICY.1" LABEL="Collection policy" CREATED="2015-02-13T22:08:43.107Z" MIMETYPE="text/xml" SIZE="1713">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="a2171e3e3a8a80b3b80d9c11ba0ef7ec9ad1a1f1"/>
+<foxml:xmlContent>
+<collection_policy xmlns="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="" xsi:schemaLocation="http://www.islandora.ca http://syn.lib.umanitoba.ca/collection_policy.xsd">
+  <content_models>
+    <content_model dsid="" name="Islandora Page Content Model" namespace="yul" pid="islandora:pageCModel"></content_model>
+    <content_model dsid="" name="Islandora Large Image Content Model" namespace="yul" pid="islandora:sp_large_image_cmodel"></content_model>
+    <content_model dsid="" name="Islandora Internet Archive Book Content Model" namespace="yul" pid="islandora:bookCModel"></content_model>
+    <content_model dsid="" name="Islandora Web ARChive Content Model" namespace="yul" pid="islandora:sp_web_archive"></content_model>
+    <content_model dsid="" name="Islandora PDF Content Model" namespace="yul" pid="islandora:sp_pdf"></content_model>
+    <content_model dsid="" name="Islandora Audio Content Model" namespace="yul" pid="islandora:sp-audioCModel"></content_model>
+    <content_model dsid="" name="Islandora Compound Object Content Model" namespace="yul" pid="islandora:compoundCModel"></content_model>
+    <content_model dsid="" name="Islandora Collection Content Model" namespace="yul" pid="islandora:collectionCModel"></content_model>
+    <content_model dsid="" name="Islandora Video Content Model" namespace="yul" pid="islandora:sp_videoCModel"></content_model>
+    <content_model dsid="" name="Islandora Newspaper Page Content Model" namespace="yul" pid="islandora:newspaperPageCModel"></content_model>
+  </content_models>
+  <search_terms></search_terms>
+  <staging_area></staging_area>
+  <relationship>isMemberOfCollection</relationship>
+</collection_policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2015-02-13T22:07:14.738Z" MIMETYPE="text/xml" SIZE="1125">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="a4af0aae1976afb44a6d177f895fc656d7a06490"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:F0025/MODS/2015-02-13T22:07:14.738Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2015-02-13T22:19:07.623Z" MIMETYPE="text/xml" SIZE="3431">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="78e6b6a0d273c7efa34d5b741b2b440dcea4bf2a"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:F0025/MODS/2015-02-13T22:19:07.623Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2015-02-13T22:33:42.255Z" MIMETYPE="text/xml" SIZE="3481">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="37085dc323053bce8f3129f1b97871c7316e4d3d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:F0025/MODS/2015-02-13T22:33:42.255Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.3" LABEL="MODS Record" CREATED="2015-02-13T22:34:32.416Z" MIMETYPE="text/xml" SIZE="3778">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="5000c9d4293861dd1f1518d7bff412a3caa39d7b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:F0025/MODS/2015-02-13T22:34:32.416Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2015-02-13T22:07:14.738Z" MIMETYPE="text/xml" SIZE="437">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="ceccbcdb51f080426f28b769a7913b41dacf65bb"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>York University Faculty Association (YUFA)</dc:title>
+  <dc:identifier>yul:F0025</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2015-02-13T22:19:08.295Z" MIMETYPE="text/xml" SIZE="2567">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3d7af432df263882cc45314ac5f63bc3e0579141"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>York University Faculty Association (YUFA)</dc:title>
+  <dc:description>The York University Faculty Association was established in 1962 as the voice of faculty in university affairs, but it was not until 1976 that YUFA became the authorized bargaining agent for York University faculty members and librarians, as designated by the Collective Agreement. The Association&apos;s elected officials include the Chairperson, Vice-Chairperson for Organization, Vice-Chairperson for External Affairs, Recording Secretary, Information Officer, and Treasurer. They are elected annually. In addition, there are appointed officers, the Grievance Officer, the Organizing Officer, and the Negotiating Officer, and representatives from the several constituencies (all faculties and the Library). Appointed officers serve a two-year term. The Association&apos;s Executive Committee consists of all the officers, the past chairperson, and the chairperson of the Contract and Grievance Committee, and has general oversight of the Association between general meetings. The Association has three standing committees: Contract and Grievance Committee, which reports to the Executive on specific grievances, oversees the election of local stewards and their handling of grievances, monitors the application of the Collective Agreement, hears reports and supervises the work of the Grievance Officer and the Organizing Officer. The Negotiating Committee is responsible for the drafting of the provisions of the Collective Agreement in cooperation with the Executive and Contract and Grievance Committee, presenting its positions to the membership for approval, negotiating the terms of the Collective Agreement, and appraising the membership of the proceedings of negotiations. The Nominating Committee is responsible for securing nominations for all elected positions, and for membership on committees. Local stewards are elected for each constituency, one steward for every thirty-five members. There must be a minimum of four general meetings yearly, at least one of which is designated the Annual Meeting. The Executive and Contract and Grievance Committee shall meet six times yearly.</dc:description>
+  <dc:identifier>yul:F0025</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="DC Record" CREATED="2015-02-13T22:33:42.912Z" MIMETYPE="text/xml" SIZE="2655">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b98f93339465b2f23a38572369e977faf5307ec0"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>York University Faculty Association (YUFA)</dc:title>
+  <dc:description>The York University Faculty Association was established in 1962 as the voice of faculty in university affairs, but it was not until 1976 that YUFA became the authorized bargaining agent for York University faculty members and librarians, as designated by the Collective Agreement. The Association&apos;s elected officials include the Chairperson, Vice-Chairperson for Organization, Vice-Chairperson for External Affairs, Recording Secretary, Information Officer, and Treasurer. They are elected annually. In addition, there are appointed officers, the Grievance Officer, the Organizing Officer, and the Negotiating Officer, and representatives from the several constituencies (all faculties and the Library). Appointed officers serve a two-year term. The Association&apos;s Executive Committee consists of all the officers, the past chairperson, and the chairperson of the Contract and Grievance Committee, and has general oversight of the Association between general meetings. The Association has three standing committees: Contract and Grievance Committee, which reports to the Executive on specific grievances, oversees the election of local stewards and their handling of grievances, monitors the application of the Collective Agreement, hears reports and supervises the work of the Grievance Officer and the Organizing Officer. The Negotiating Committee is responsible for the drafting of the provisions of the Collective Agreement in cooperation with the Executive and Contract and Grievance Committee, presenting its positions to the membership for approval, negotiating the terms of the Collective Agreement, and appraising the membership of the proceedings of negotiations. The Nominating Committee is responsible for securing nominations for all elected positions, and for membership on committees. Local stewards are elected for each constituency, one steward for every thirty-five members. There must be a minimum of four general meetings yearly, at least one of which is designated the Annual Meeting. The Executive and Contract and Grievance Committee shall meet six times yearly.</dc:description>
+  <dc:contributor>York University Faculty Association (YUFA) (Creator)</dc:contributor>
+  <dc:identifier>yul:F0025</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="DC Record" CREATED="2015-02-13T22:34:32.643Z" MIMETYPE="text/xml" SIZE="2988">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b42299756b0e22b803e7e6eb50f059ca02b912c0"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>York University Faculty Association (YUFA)</dc:title>
+  <dc:description>The York University Faculty Association was established in 1962 as the voice of faculty in university affairs, but it was not until 1976 that YUFA became the authorized bargaining agent for York University faculty members and librarians, as designated by the Collective Agreement. The Association&apos;s elected officials include the Chairperson, Vice-Chairperson for Organization, Vice-Chairperson for External Affairs, Recording Secretary, Information Officer, and Treasurer. They are elected annually. In addition, there are appointed officers, the Grievance Officer, the Organizing Officer, and the Negotiating Officer, and representatives from the several constituencies (all faculties and the Library). Appointed officers serve a two-year term. The Association&apos;s Executive Committee consists of all the officers, the past chairperson, and the chairperson of the Contract and Grievance Committee, and has general oversight of the Association between general meetings. The Association has three standing committees: Contract and Grievance Committee, which reports to the Executive on specific grievances, oversees the election of local stewards and their handling of grievances, monitors the application of the Collective Agreement, hears reports and supervises the work of the Grievance Officer and the Organizing Officer. The Negotiating Committee is responsible for the drafting of the provisions of the Collective Agreement in cooperation with the Executive and Contract and Grievance Committee, presenting its positions to the membership for approval, negotiating the terms of the Collective Agreement, and appraising the membership of the proceedings of negotiations. The Nominating Committee is responsible for securing nominations for all elected positions, and for membership on committees. Local stewards are elected for each constituency, one steward for every thirty-five members. There must be a minimum of four general meetings yearly, at least one of which is designated the Annual Meeting. The Executive and Contract and Grievance Committee shall meet six times yearly.</dc:description>
+  <dc:description>Access is restricted. All files in the fonds are restricted for a period of one hundred years from the last date in the file. Researchers wishing to view this material must obtain the written permission of the York University Faculty Association, and be directed to the Archivist, York University.</dc:description>
+  <dc:contributor>York University Faculty Association (YUFA) (Creator)</dc:contributor>
+  <dc:identifier>yul:F0025</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2015-02-13T22:07:16.826Z" MIMETYPE="image/png" SIZE="5137">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="aa13cc259a5ab9a48a9554a70bca20810e6967ef"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:F0025/TN/2015-02-13T22:07:16.826Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:244860"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Faculty Newsletter Past Issues"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="nruest"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-09-10T19:36:30.403Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-09-10T19:36:41.746Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>WARC_CSV</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-09-10T19:36:33.102Z</audit:date>
+<audit:justification>Copied datastream from yul:244860.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD_FITS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-09-10T19:36:39.830Z</audit:date>
+<audit:justification>Copied datastream from yul:244860.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>WARC_FILTERED</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-09-10T19:36:40.380Z</audit:date>
+<audit:justification>Copied datastream from yul:244860.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JPG</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-09-10T19:36:41.373Z</audit:date>
+<audit:justification>Copied datastream from yul:244860.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-09-10T19:36:41.746Z</audit:date>
+<audit:justification>Copied datastream from yul:244860.</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="639">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="629add8885780b30b2b5f18e2f2059df4a530fdd"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:244860">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:232039"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_web_archive"></fedora-model:hasModel>
+    <islandora:inheritXacmlFrom rdf:resource="info:fedora/yul:232039"></islandora:inheritXacmlFrom>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="text/xml" SIZE="1743">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="cc15a8c09910b777c6b510c0187a18882ef5da8d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/MODS/2014-09-10T19:36:30.403Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="text/xml" SIZE="1118">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="cefc56bc6397c42ddd28ba771c53cf4bb1e4b98f"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Faculty Newsletter Past Issues</dc:title>
+  <dc:title>Faculty Newsletter Past Issues</dc:title>
+  <dc:contributor>York University Libraries (Creator)</dc:contributor>
+  <dc:date>2014-09-10</dc:date>
+  <dc:type>Website</dc:type>
+  <dc:format>electronic resource</dc:format>
+  <dc:format>2.5M</dc:format>
+  <dc:identifier>yul:244860</dc:identifier>
+  <dc:identifier>local: facultynewsletterpastissues-2014_09_10</dc:identifier>
+  <dc:identifier>http://www.library.yorku.ca/cms/faculty/facultynewsletterpastissues/</dc:identifier>
+  <dc:identifier>http://digital.library.yorku.ca/wayback/20140910/http://www.library.yorku.ca/cms/faculty/facultynewsletterpastissues/</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>http://www.library.yorku.ca/cms/faculty/facultynewsletterpastissues/</dc:relation>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="facultynewsletterpastissues-2014_09_10.warc" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="application/warc" SIZE="2594907">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="0063facbeceb9a4757a290c1a30099e520a00632"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/OBJ/2014-09-10T19:36:30.403Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PNG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PNG.0" LABEL="facultynewsletterpastissues-2014_09_10.png" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="image/png" SIZE="67425">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="8fb4659a55b2661a1939b3f1dbdb963922966a2e"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/PNG/2014-09-10T19:36:30.403Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PDF" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PDF.0" LABEL="facultynewsletterpastissues-2014_09_10.pdf" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="application/pdf" SIZE="24326">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="e8ed15f2a236f7e1350cade33f9715cc8fad0626"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/PDF/2014-09-10T19:36:30.403Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="POLICY.0" LABEL="XACML Policy Stream" CREATED="2014-09-10T19:36:30.403Z" MIMETYPE="text/xml" SIZE="759">
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule Effect="Permit" RuleId="allow-everything-else">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="WARC_CSV" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="WARC_CSV.0" LABEL="WARC Index" CREATED="2014-09-10T19:36:33.102Z" MIMETYPE="text/plain" SIZE="86807">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="180f164922cbd6f16aadf15bf975c6740647f2d8"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/WARC_CSV/2014-09-10T19:36:33.102Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD_FITS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD_FITS.0" LABEL="TECHMD_FITS" CREATED="2014-09-10T19:36:39.830Z" MIMETYPE="application/xml" SIZE="2988">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6f5eb6d515530f2642c3d49b662203783df8cd70"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/TECHMD_FITS/2014-09-10T19:36:39.830Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="WARC_FILTERED" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="WARC_FILTERED.0" LABEL="WARC Filtered" CREATED="2014-09-10T19:36:40.380Z" MIMETYPE="application/warc" SIZE="1786833">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="2ca531993dff479a2f5277367a3468fbe2072d88"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/WARC_FILTERED/2014-09-10T19:36:40.380Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JPG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JPG.0" LABEL="Medium sized JPEG" CREATED="2014-09-10T19:36:41.373Z" MIMETYPE="image/jpeg" SIZE="83664">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="41b1757eea388e33f6395e671e2341843d2fb67e"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/JPG/2014-09-10T19:36:41.373Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2014-09-10T19:36:41.746Z" MIMETYPE="image/jpeg" SIZE="16352">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="0a1b3502cd1480ad845d9959aad96fbf5229258d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:244860/TN/2014-09-10T19:36:41.746Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

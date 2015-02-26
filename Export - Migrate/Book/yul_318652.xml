@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:318652"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Letter to VW from Mary Everest Boole 31 May 1884"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="catherine.macarthur.falls"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-02-23T21:23:37.777Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-02-23T21:31:34.377Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-02-23T21:23:37.777Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>catherine.macarthur.falls</audit:responsibility>
+<audit:date>2015-02-23T21:31:34.377Z</audit:date>
+<audit:justification>Copied datastream from yul:318652.</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-02-23T21:23:37.777Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="534">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="2e8a2978d890b9610cc35edddeb803eef6e3e413"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:318652">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:F0443"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:bookCModel"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2015-02-23T21:23:37.777Z" MIMETYPE="text/xml" SIZE="2529">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="010d0ff44ceb18f44d1b9de2c4a563a968a644ec"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:318652/MODS/2015-02-23T21:23:37.777Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2015-02-23T21:23:37.777Z" MIMETYPE="text/xml" SIZE="1558">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="e533917a6bece9952f5c4aff8640332c533ca09e"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Letter to VW from Mary Everest Boole 31 May 1884</dc:title>
+  <dc:subject>Theology--Spiritualism--Health--Jealousy--Christianity</dc:subject>
+  <dc:subject>Theology--Spiritualism--Health--Jealousy--Christianity</dc:subject>
+  <dc:description>Consists of a manuscript letter from Mary Everest Boole to Victoria Welby.</dc:description>
+  <dc:description>Digitization made possible, in whole or in part, through a 2014 Librarians Research Grant.</dc:description>
+  <dc:contributor>Welby, Victoria (Creator)</dc:contributor>
+  <dc:contributor>Boole, Mary Everest, 1832-1916 , 1832-1916 (Correspondent)</dc:contributor>
+  <dc:date>1884-05-31</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>text</dc:format>
+  <dc:format>18 pages</dc:format>
+  <dc:identifier>yul:318652</dc:identifier>
+  <dc:identifier>local: ASC17875</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Lady Victoria Welby fonds (F0443)--http://archivesfa.library.yorku.ca/fonds/ON00370-f0000443.htm</dc:relation>
+  <dc:coverage>Europe--England</dc:coverage>
+  <dc:coverage>51.5, -0.116667</dc:coverage>
+  <dc:rights>Digitized for access and research purposes only. For further copyright information contact: ascproj@yorku.ca.</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2015-02-23T21:31:34.377Z" MIMETYPE="image/jpeg" SIZE="55063">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6a184d590f020285bfb390139a0c2a338f2c715b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:318652/TN/2015-02-23T21:31:34.377Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

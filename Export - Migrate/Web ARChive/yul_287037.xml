@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:287037"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Steacie Science and Engineering Library &amp;raquo; The Steacie Library Dungeon Hackfest 2013"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="nruest"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-01-13T16:47:41.128Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-01-13T16:47:53.078Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>WARC_CSV</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-01-13T16:47:43.347Z</audit:date>
+<audit:justification>Copied datastream from yul:287037.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD_FITS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-01-13T16:47:51.110Z</audit:date>
+<audit:justification>Copied datastream from yul:287037.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>WARC_FILTERED</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-01-13T16:47:51.849Z</audit:date>
+<audit:justification>Copied datastream from yul:287037.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JPG</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-01-13T16:47:52.766Z</audit:date>
+<audit:justification>Copied datastream from yul:287037.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2015-01-13T16:47:53.078Z</audit:date>
+<audit:justification>Copied datastream from yul:287037.</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="639">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3065747b36e8cd5a96021472698091ee039f49f7"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:287037">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:232039"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_web_archive"></fedora-model:hasModel>
+    <islandora:inheritXacmlFrom rdf:resource="info:fedora/yul:232039"></islandora:inheritXacmlFrom>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="text/xml" SIZE="1533">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="36ea3fa163671e1b99cd1e3202b4b675fcaa8994"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/MODS/2015-01-13T16:47:41.128Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="text/xml" SIZE="1069">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="51b8c3f029414eb3af866ee5b17c3558395cc1bd"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Steacie Science and Engineering Library » The Steacie Library Dungeon Hackfest 2013</dc:title>
+  <dc:publisher>York University Libraries</dc:publisher>
+  <dc:contributor>York University Libraries (Creator)</dc:contributor>
+  <dc:date>2015-01-13</dc:date>
+  <dc:type>Website</dc:type>
+  <dc:format>electronic resource</dc:format>
+  <dc:format>252K</dc:format>
+  <dc:identifier>yul:287037</dc:identifier>
+  <dc:identifier>local: 2013-steacie-hackfest-2015_01_13</dc:identifier>
+  <dc:identifier>http://www.library.yorku.ca/cms/steacie/about-the-library/hackfest/</dc:identifier>
+  <dc:identifier>http://digital.library.yorku.ca/wayback/20150113/http://www.library.yorku.ca/cms/steacie/about-the-library/hackfest/</dc:identifier>
+  <dc:language>eng</dc:language>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="2013-steacie-hackfest-2015_01_13.warc" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="application/warc" SIZE="257716">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="250097ada77d3dd8ffc85f8b2b203495a6518851"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/OBJ/2015-01-13T16:47:41.128Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PNG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PNG.0" LABEL="2013-steacie-hackfest-2015_01_13.png" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="image/png" SIZE="634809">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3082e1b28246da65c2cab7475d894b9f6a615c7d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/PNG/2015-01-13T16:47:41.128Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PDF" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PDF.0" LABEL="2013-steacie-hackfest-2015_01_13.pdf" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="application/pdf" SIZE="129408">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="37361953c35bc480ffa60f90cbcdf5db48c99d84"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/PDF/2015-01-13T16:47:41.128Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="POLICY.0" LABEL="XACML Policy Stream" CREATED="2015-01-13T16:47:41.128Z" MIMETYPE="text/xml" SIZE="759">
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule RuleId="allow-everything-else" Effect="Permit">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="WARC_CSV" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="WARC_CSV.0" LABEL="WARC Index" CREATED="2015-01-13T16:47:43.347Z" MIMETYPE="text/plain" SIZE="18987">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="eeacbbc19f8ea603fad732324a7001e8f65723b4"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/WARC_CSV/2015-01-13T16:47:43.347Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD_FITS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD_FITS.0" LABEL="TECHMD_FITS" CREATED="2015-01-13T16:47:51.110Z" MIMETYPE="application/xml" SIZE="2997">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="2e8555405b1d93b8851ecdc4bd2ca9fe98588015"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/TECHMD_FITS/2015-01-13T16:47:51.110Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="WARC_FILTERED" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="WARC_FILTERED.0" LABEL="WARC Filtered" CREATED="2015-01-13T16:47:51.849Z" MIMETYPE="application/warc" SIZE="190056">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="52b37f2c89878b35f21c3bcde748e09f35b64a1f"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/WARC_FILTERED/2015-01-13T16:47:51.849Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JPG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JPG.0" LABEL="Medium sized JPEG" CREATED="2015-01-13T16:47:52.766Z" MIMETYPE="image/jpeg" SIZE="119389">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="491657b486b887668157c2d9975588876e828f96"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/JPG/2015-01-13T16:47:52.766Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2015-01-13T16:47:53.078Z" MIMETYPE="image/jpeg" SIZE="11910">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="f87e113eaf518a162f5740e47f56732f6e6b1b23"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:287037/TN/2015-01-13T16:47:53.078Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

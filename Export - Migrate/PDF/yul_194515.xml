@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:194515"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Long Branch, Ont. Race Track. : Air View"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="gundam90"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-06-03T19:54:16.310Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-12-14T04:20:23.364Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-06-03T19:54:16.310Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD_FITS</audit:componentID>
+<audit:responsibility>gundam90</audit:responsibility>
+<audit:date>2014-06-03T19:54:32.041Z</audit:date>
+<audit:justification>Copied datastream from yul:194515.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>gundam90</audit:responsibility>
+<audit:date>2014-06-03T19:54:33.172Z</audit:date>
+<audit:justification>Copied datastream from yul:194515.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PREVIEW</audit:componentID>
+<audit:responsibility>gundam90</audit:responsibility>
+<audit:date>2014-06-03T19:54:35.248Z</audit:date>
+<audit:justification>Copied datastream from yul:194515.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>FULL_TEXT</audit:componentID>
+<audit:responsibility>gundam90</audit:responsibility>
+<audit:date>2014-06-03T19:54:35.932Z</audit:date>
+<audit:justification>Copied datastream from yul:194515.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:16.800Z</audit:date>
+<audit:justification>Copied datastream from yul:194515.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:17.081Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:17.504Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:17.662Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:17.754Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-INT</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:17.878Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>POLICY</audit:componentID>
+<audit:responsibility>admin</audit:responsibility>
+<audit:date>2014-08-18T14:10:18.071Z</audit:date>
+<audit:justification>Copied datastream from yul:194515.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-14T04:20:23.364Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2014-06-03T19:54:16.310Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="530">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="29cfba71787f59ac51a16b3eb4e0d8fe3ea2204f"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:194515">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:F0433"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_pdf"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2014-06-03T19:54:16.310Z" MIMETYPE="text/xml" SIZE="2704">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6f0f7edb3d3e431d7778183462bd8b81b711740b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/MODS/2014-06-03T19:54:16.310Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2014-12-14T04:20:23.364Z" MIMETYPE="text/xml" SIZE="2705">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b2458b6cb741db40df43f4c63986fa97c4aadd09"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/MODS/2014-12-14T04:20:23.364Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2014-06-03T19:54:16.310Z" MIMETYPE="text/xml" SIZE="1847">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="65656a4a078229da0ab3bc2851b703b26f4adc81"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Long Branch, Ont. Race Track. : Air View: Long Branch, Ont[ario]. Race Track. : Air View</dc:title>
+  <dc:subject>Aerial photography--Long Branch--Race track (horse)</dc:subject>
+  <dc:subject>Aerial photography--Long Branch--Race track (horse)</dc:subject>
+  <dc:description>Image of front and back of negative envelope and one contact sheet. Assignment: Long Branch, Ont[ario]. Race Track. : Air View.</dc:description>
+  <dc:description>ASC18187</dc:description>
+  <dc:description>ASC18187</dc:description>
+  <dc:publisher>Toronto Telegram</dc:publisher>
+  <dc:contributor>[Telegram staff]</dc:contributor>
+  <dc:contributor>Toronto Telegram</dc:contributor>
+  <dc:date>2014-06-03</dc:date>
+  <dc:date>[January 1950]</dc:date>
+  <dc:date>1950-01</dc:date>
+  <dc:type>StillImage</dc:type>
+  <dc:type>Documentary Photography</dc:type>
+  <dc:format>1 photograph : b&amp;w negative ; 9.5 x 12 cm + 1 envelope : 10.2 x 14.4 cm</dc:format>
+  <dc:format>nonprojected graphic</dc:format>
+  <dc:identifier>yul:194515</dc:identifier>
+  <dc:identifier>ASC18187</dc:identifier>
+  <dc:identifier></dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Toronto Telegram fonds, F0433--http://archivesfa.library.yorku.ca/fonds/ON00370-f0000433.htm</dc:relation>
+  <dc:coverage>North America--Canada--Toronto</dc:coverage>
+  <dc:coverage>43.606274 -79.525427</dc:coverage>
+  <dc:rights>Photograph now in public domain. For citation information or to obtain high resolution image, contact ascproj@yorku.ca or see Toronto Telegram FAQ.</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="ASC18187.pdf" CREATED="2014-06-03T19:54:16.310Z" MIMETYPE="application/pdf" SIZE="584845">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3c96c235470aeb3ed6ea65f2f81080913e04821c"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/OBJ/2014-06-03T19:54:16.310Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD_FITS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD_FITS.0" LABEL="TECHMD_FITS" CREATED="2014-06-03T19:54:32.041Z" MIMETYPE="text/xml" SIZE="4664">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="33cdf173b7958cc77f40a82b6ec4acf8f1a134eb"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/TECHMD_FITS/2014-06-03T19:54:32.041Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="TN" CREATED="2014-06-03T19:54:33.172Z" MIMETYPE="image/jpeg" SIZE="30378">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="e5f4b869245ec7e538b25c189c84271225358fe8"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/TN/2014-06-03T19:54:33.172Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PREVIEW" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PREVIEW.0" LABEL="PREVIEW" CREATED="2014-06-03T19:54:35.248Z" MIMETYPE="image/jpeg" SIZE="154033">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b2c559d32b202fc44365a4283cb7e6d2443397b3"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/PREVIEW/2014-06-03T19:54:35.248Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="FULL_TEXT" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="FULL_TEXT.0" LABEL="FULL_TEXT" CREATED="2014-06-03T19:54:35.932Z" MIMETYPE="text/plain" SIZE="-1">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="da39a3ee5e6b4b0d3255bfef95601890afd80709"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:194515/FULL_TEXT/2014-06-03T19:54:35.932Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-INT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-INT.0" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T14:10:16.800Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="281">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="08595c1fc44e5d80d5f487b6842326a3eee637a5"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:194515/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.1" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T14:10:17.081Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="349">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="1514ff1f9d5ef804189f5b89a60d012bde3ee746"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:194515/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.2" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T14:10:17.504Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="422">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6e8551394c68d624d64c72c3f5cea3dd7745e4b5"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:194515/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.3" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T14:10:17.662Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="497">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3b5498dd2312463fa0bcba20cdd5d995e0113066"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:194515/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+    <islandora:isViewableByRole>administrator</islandora:isViewableByRole>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.4" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T14:10:17.754Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="582">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="2ff8c92adba93d2ade807f49cbb26ab1a736c9bd"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:194515/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+    <islandora:isViewableByRole>administrator</islandora:isViewableByRole>
+    <islandora:isViewableByRole>Islandora administrator</islandora:isViewableByRole>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-INT.5" LABEL="Fedora Relationship Metadata." CREATED="2014-08-18T14:10:17.878Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="661">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="263e75970f3025c4a73c936095dd7dcf33fe0bff"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/yul:194515/OBJ">
+    <islandora:isViewableByUser>admin</islandora:isViewableByUser>
+    <islandora:isViewableByUser>nruest</islandora:isViewableByUser>
+    <islandora:isViewableByUser>fedoraAdmin</islandora:isViewableByUser>
+    <islandora:isViewableByRole>administrator</islandora:isViewableByRole>
+    <islandora:isViewableByRole>Islandora administrator</islandora:isViewableByRole>
+    <islandora:isViewableByRole>Islandora creator</islandora:isViewableByRole>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="POLICY.0" LABEL="XACML Policy Stream" CREATED="2014-08-18T14:10:18.071Z" MIMETYPE="text/xml" SIZE="3519">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="2130409e41cbe7b4f11a48498d006e0ae4b52f30"/>
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule Effect="Deny" RuleId="deny-dsid-mime">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <Resource>
+          <ResourceMatch MatchId="urn:oasis:names:tc:xacml:1.0:function:string-equal">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">OBJ</AttributeValue>
+            <ResourceAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:resource:datastream:id" DataType="http://www.w3.org/2001/XMLSchema#string"></ResourceAttributeDesignator>
+          </ResourceMatch>
+        </Resource>
+      </Resources>
+      <Actions>
+        <Action>
+          <ActionMatch MatchId="urn:oasis:names:tc:xacml:1.0:function:string-equal">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">urn:fedora:names:fedora:2.1:action:id-getDatastreamDissemination</AttributeValue>
+            <ActionAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:action:id" DataType="http://www.w3.org/2001/XMLSchema#string"></ActionAttributeDesignator>
+          </ActionMatch>
+        </Action>
+      </Actions>
+    </Target>
+    <Condition FunctionId="urn:oasis:names:tc:xacml:1.0:function:not">
+      <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:or">
+        <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-at-least-one-member-of">
+          <SubjectAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:subject:loginId" DataType="http://www.w3.org/2001/XMLSchema#string" MustBePresent="false"></SubjectAttributeDesignator>
+          <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-bag">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">admin</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">nruest</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">fedoraAdmin</AttributeValue>
+          </Apply>
+        </Apply>
+        <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-at-least-one-member-of">
+          <SubjectAttributeDesignator AttributeId="fedoraRole" DataType="http://www.w3.org/2001/XMLSchema#string" MustBePresent="false"></SubjectAttributeDesignator>
+          <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-bag">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">administrator</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">Islandora administrator</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">Islandora creator</AttributeValue>
+          </Apply>
+        </Apply>
+      </Apply>
+    </Condition>
+  </Rule>
+  <Rule Effect="Permit" RuleId="allow-everything-else">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

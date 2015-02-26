@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:278537"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Winnipeg"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="nruest"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-12-23T19:29:55.772Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-12-23T19:31:16.532Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-12-23T19:29:55.772Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD_FITS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-23T19:31:09.773Z</audit:date>
+<audit:justification>Copied datastream from yul:278537.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-23T19:31:13.441Z</audit:date>
+<audit:justification>Copied datastream from yul:278537.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>PREVIEW</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-23T19:31:16.532Z</audit:date>
+<audit:justification>Copied datastream from yul:278537.</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2014-12-23T19:29:55.772Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="530">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="4ec63b0a9e1a42fadb1d4621dcc6bb0fb6ea8f9b"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:278537">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:F0184"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_pdf"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2014-12-23T19:29:55.772Z" MIMETYPE="application/xml" SIZE="2094">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="d52c547589b5fa6848cb5deaa7371658332e85ee"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:278537/MODS/2014-12-23T19:29:55.772Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2014-12-23T19:29:55.772Z" MIMETYPE="application/xml" SIZE="1227">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="bb11dbb8865cd8d5c242fb3f67d5bb40c3e50a2b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:278537/DC/2014-12-23T19:29:55.772Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="OBJ Datastream" CREATED="2014-12-23T19:29:55.772Z" MIMETYPE="application/pdf" SIZE="9147233">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="d673e37044c4a20697c4b69265e73fd9559c3c0d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:278537/OBJ/2014-12-23T19:29:55.772Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD_FITS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD_FITS.0" LABEL="TECHMD_FITS" CREATED="2014-12-23T19:31:09.773Z" MIMETYPE="application/xml" SIZE="4408">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="e54c8e45eb9546db43efb2a89a6132268de5a8f1"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:278537/TECHMD_FITS/2014-12-23T19:31:09.773Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="TN" CREATED="2014-12-23T19:31:13.441Z" MIMETYPE="image/jpeg" SIZE="31204">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b7c6a79f708e6361632fe73073e10d772c1e8d11"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:278537/TN/2014-12-23T19:31:13.441Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PREVIEW" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PREVIEW.0" LABEL="PREVIEW" CREATED="2014-12-23T19:31:16.532Z" MIMETYPE="image/jpeg" SIZE="172727">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="22920dcb0d4e99a5ff866c15aa35c1f38c82af65"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:278537/PREVIEW/2014-12-23T19:31:16.532Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

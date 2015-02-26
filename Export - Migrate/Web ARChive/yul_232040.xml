@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:232040"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Romanian Online Dialect Atlas :  An experimental presentation of linguistic information"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="nruest"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-08-11T16:56:54.600Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-12-14T17:02:47.059Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>WARC_CSV</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-08-11T16:56:58.565Z</audit:date>
+<audit:justification>Copied datastream from yul:232040.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TECHMD_FITS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-08-11T16:57:07.495Z</audit:date>
+<audit:justification>Copied datastream from yul:232040.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>WARC_FILTERED</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-08-11T16:57:08.249Z</audit:date>
+<audit:justification>Copied datastream from yul:232040.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>JPG</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-08-11T16:57:09.368Z</audit:date>
+<audit:justification>Copied datastream from yul:232040.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-08-11T16:57:09.598Z</audit:date>
+<audit:justification>Copied datastream from yul:232040.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>POLICY</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-08-11T17:00:37.895Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-14T17:02:45.688Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-14T17:02:46.462Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-12-14T17:02:47.059Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="639">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="509cb750f66fe68c68bb66825d8c7e6b1bb2b919"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:232040">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:232039"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_web_archive"></fedora-model:hasModel>
+    <islandora:inheritXacmlFrom rdf:resource="info:fedora/yul:232039"></islandora:inheritXacmlFrom>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="text/xml" SIZE="2329">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6b92ebb8cfaaab2f65d142de29dab4e7985184fc"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/MODS/2014-08-11T16:56:54.600Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2014-12-14T17:02:46.462Z" MIMETYPE="text/xml" SIZE="2391">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="502b0921f07a540ad02c4664f65f64c9836c615d"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/MODS/2014-12-14T17:02:46.462Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="text/xml" SIZE="1578">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b8a7b762350406de6eaaaa52c972a12d240ed59e"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Romanian Online Dialect Atlas :  An experimental presentation of linguistic information</dc:title>
+  <dc:title>Romanian Online Dialect Atlas</dc:title>
+  <dc:subject>Romanian--linguistics</dc:subject>
+  <dc:description>The Romanian Online Dialect Atlas is an experimental online presentation of dialect information about Romanian.
+
+The Romanian Online Dialect Atlas project proposes applying innovative contemporary methods in dialect geography to an online set of Romanian dialect data.</dc:description>
+  <dc:contributor>Sheila M. Embleton (Creator)</dc:contributor>
+  <dc:contributor>Dorin Uritescu (Creator)</dc:contributor>
+  <dc:contributor>Eric S. Wheeler (Creator)</dc:contributor>
+  <dc:date>2014-08-11</dc:date>
+  <dc:type>Website</dc:type>
+  <dc:format>electronic resource</dc:format>
+  <dc:format>10M</dc:format>
+  <dc:identifier>yul:232040</dc:identifier>
+  <dc:identifier>local: romainian-online-dialect-atlas-2014_08_11</dc:identifier>
+  <dc:identifier>http://www.yorku.ca/embleton/research/romanian</dc:identifier>
+  <dc:identifier>http://digital.library.yorku.ca/wayback/20140811/http://www.yorku.ca/embleton/research/romanian/</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>http://www.yorku.ca/embleton/research/romanian</dc:relation>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2014-12-14T17:02:47.059Z" MIMETYPE="text/xml" SIZE="1584">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="9b47d26e2c41b60297cd5a67d12e76ca4bffae1b"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Romanian Online Dialect Atlas :  An experimental presentation of linguistic information</dc:title>
+  <dc:title>Romanian Online Dialect Atlas</dc:title>
+  <dc:subject>Romanian--linguistics</dc:subject>
+  <dc:description>The Romanian Online Dialect Atlas is an experimental online presentation of dialect information about Romanian.
+
+The Romanian Online Dialect Atlas project proposes applying innovative contemporary methods in dialect geography to an online set of Romanian dialect data.</dc:description>
+  <dc:contributor>Sheila M. Embleton (Creator)</dc:contributor>
+  <dc:contributor>Dorin Uritescu (Creator)</dc:contributor>
+  <dc:contributor>Eric S. Wheeler (Creator)</dc:contributor>
+  <dc:date>2014-08-11</dc:date>
+  <dc:type>Website</dc:type>
+  <dc:format>electronic resource</dc:format>
+  <dc:format>10M</dc:format>
+  <dc:identifier>yul:232040</dc:identifier>
+  <dc:identifier>local: romainian-online-dialect-atlas-2014_08_11</dc:identifier>
+  <dc:identifier>http://www.yorku.ca/embleton/research/romanian</dc:identifier>
+  <dc:identifier>http://digital.library.yorku.ca/wayback/20141214165522/http://www.yorku.ca/embleton/research/romanian/</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>http://www.yorku.ca/embleton/research/romanian</dc:relation>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="romainian-online-dialect-atlas-2014_08_11.warc" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="application/warc" SIZE="10383574">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="28ee8025e545a937df5306f92fb42d0d611dbc1b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/OBJ/2014-08-11T16:56:54.600Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PNG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PNG.0" LABEL="romainian-online-dialect-atlas-2014_08_11.png" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="image/png" SIZE="173855">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="bea1f7ff7c0d382d1c2ee28e17dc56c4b4050c1f"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/PNG/2014-08-11T16:56:54.600Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="PDF" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="PDF.0" LABEL="romainian-online-dialect-atlas-2014_08_11.pdf" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="application/pdf" SIZE="61227">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6fd6f2543ed6d425b569c405107dd8ba25a501b7"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/PDF/2014-08-11T16:56:54.600Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="POLICY.0" LABEL="XACML Policy Stream" CREATED="2014-08-11T16:56:54.600Z" MIMETYPE="text/xml" SIZE="759">
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule Effect="Permit" RuleId="allow-everything-else">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="POLICY.1" LABEL="XACML Policy Stream" CREATED="2014-08-11T17:00:37.895Z" MIMETYPE="text/xml" SIZE="759">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="cd1bbcede90bddb1aab748e9ef1abeb29b6c20f6"/>
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule Effect="Permit" RuleId="allow-everything-else">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="WARC_CSV" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="WARC_CSV.0" LABEL="WARC Index" CREATED="2014-08-11T16:56:58.565Z" MIMETYPE="text/plain" SIZE="10227">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="630c16444294e62c8455ed5015efd4421bcc1476"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/WARC_CSV/2014-08-11T16:56:58.565Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TECHMD_FITS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TECHMD_FITS.0" LABEL="TECHMD_FITS" CREATED="2014-08-11T16:57:07.495Z" MIMETYPE="text/xml" SIZE="2997">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="55eef1c31cf5bd01b2d6f615ba27b339745adecb"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/TECHMD_FITS/2014-08-11T16:57:07.495Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="WARC_FILTERED" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="WARC_FILTERED.0" LABEL="WARC Filtered" CREATED="2014-08-11T16:57:08.249Z" MIMETYPE="application/warc" SIZE="235298">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="60b324bed75791b181cd2d8d16b4783b6925beb5"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/WARC_FILTERED/2014-08-11T16:57:08.249Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="JPG" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="JPG.0" LABEL="Medium sized JPEG" CREATED="2014-08-11T16:57:09.368Z" MIMETYPE="image/jpeg" SIZE="91596">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b81d7ab872d83a63329b65d2d2d28bb0a6df1719"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/JPG/2014-08-11T16:57:09.368Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="Thumbnail" CREATED="2014-08-11T16:57:09.598Z" MIMETYPE="image/jpeg" SIZE="14825">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="f36489acdb73c6e97280bdbbd5d365e9985ddfe4"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:232040/TN/2014-08-11T16:57:09.598Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

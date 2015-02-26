@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:256710"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Jean Augustine interview: Yes Canada 92, No Brian 93 button "/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="nruest"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-10-24T13:21:10.873Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-11-19T13:17:10.014Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-10-24T13:21:10.873Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-10-24T13:21:26.056Z</audit:date>
+<audit:justification>Copied datastream from yul:256710.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>MP4</audit:componentID>
+<audit:responsibility>nruest</audit:responsibility>
+<audit:date>2014-10-24T13:25:01.424Z</audit:date>
+<audit:justification>Copied datastream from yul:256710.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>nordam</audit:responsibility>
+<audit:date>2014-11-19T13:17:07.290Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>nordam</audit:responsibility>
+<audit:date>2014-11-19T13:17:08.211Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>nordam</audit:responsibility>
+<audit:date>2014-11-19T13:17:09.096Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>nordam</audit:responsibility>
+<audit:date>2014-11-19T13:17:10.014Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2014-10-24T13:21:10.873Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="538">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="423f861767c98fdd77fe40e56c05a1fe92a85be9"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:256710">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:F0515"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:sp_videoCModel"></fedora-model:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2014-10-24T13:21:10.873Z" MIMETYPE="application/xml" SIZE="146">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="65d524ec38360aa4b2d3ad04f15af51e39b2c313"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/MODS/2014-10-24T13:21:10.873Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2014-11-19T13:17:08.211Z" MIMETYPE="application/xml" SIZE="3813">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="4b1187b84f318d01a2bb2ea529212f841b37be1b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/MODS/2014-11-19T13:17:08.211Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.2" LABEL="MODS Record" CREATED="2014-11-19T13:17:09.096Z" MIMETYPE="text/xml" SIZE="3813">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="4b1187b84f318d01a2bb2ea529212f841b37be1b"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/MODS/2014-11-19T13:17:09.096Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2014-10-24T13:21:10.873Z" MIMETYPE="application/xml" SIZE="370">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3b16583420ca8a27573a86b98c41163cbd6e21a0"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/DC/2014-10-24T13:21:10.873Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2014-11-19T13:17:10.014Z" MIMETYPE="application/xml" SIZE="3720">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="e64395e2c5c99b8e8f148b01c70bf9029dcbd2fd"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/DC/2014-11-19T13:17:10.014Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="OBJ" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="OBJ.0" LABEL="OBJ Datastream" CREATED="2014-10-24T13:21:10.873Z" MIMETYPE="video/mp4" SIZE="86712638">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="997b94efd137d2b12efa5a73ca5c65d827084193"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/OBJ/2014-10-24T13:21:10.873Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="TN" CREATED="2014-10-24T13:21:26.056Z" MIMETYPE="image/jpeg" SIZE="86391">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="fbee71a8d8f1787938bb3f5d912b9caed1e1b6ee"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/TN/2014-10-24T13:21:26.056Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MP4" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MP4.0" LABEL="MP4" CREATED="2014-10-24T13:25:01.424Z" MIMETYPE="video/mp4" SIZE="45874511">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6e112d10b0673ec7023c44b944d145c2e7b5c152"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:256710/MP4/2014-10-24T13:25:01.424Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

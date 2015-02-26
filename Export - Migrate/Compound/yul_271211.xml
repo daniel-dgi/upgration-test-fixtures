@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="yul:271211"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Photograph of woman and two children"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="joanna"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-12-04T21:32:41.860Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-12-08T21:47:12.220Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-12-04T21:32:41.860Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:15.944Z</audit:date>
+<audit:justification>Copied datastream from yul:271211.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:16.345Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:16.703Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:17.056Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:32.149Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:32.531Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:32.881Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:33.136Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:33.259Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>TN</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-04T21:33:33.598Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>MODS</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-08T21:47:11.193Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>joanna</audit:responsibility>
+<audit:date>2014-12-08T21:47:12.220Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Fedora Object to Object Relationship Metadata." CREATED="2014-12-04T21:32:41.860Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="637">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="3af341b4d5732ef094baa8cef051b8ae53f60019"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fedora="info:fedora/fedora-system:def/relations-external#" xmlns:fedora-model="info:fedora/fedora-system:def/model#" xmlns:islandora="http://islandora.ca/ontology/relsext#">
+  <rdf:Description rdf:about="info:fedora/yul:271211">
+    <fedora:isMemberOfCollection rdf:resource="info:fedora/yul:F0375"></fedora:isMemberOfCollection>
+    <fedora-model:hasModel rdf:resource="info:fedora/islandora:compoundCModel"></fedora-model:hasModel>
+    <islandora:inheritXacmlFrom rdf:resource="info:fedora/yul:F0375"></islandora:inheritXacmlFrom>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="MODS" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="MODS.0" LABEL="MODS Record" CREATED="2014-12-04T21:32:41.860Z" MIMETYPE="text/xml" SIZE="1364">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="8349721efeb536065ea478e49a156bbb7df337fb"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/MODS/2014-12-04T21:32:41.860Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="MODS.1" LABEL="MODS Record" CREATED="2014-12-08T21:47:11.193Z" MIMETYPE="text/xml" SIZE="1672">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="d112c34f880018a1aa32cbaf1ece01681701db63"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/MODS/2014-12-08T21:47:11.193Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="DC Record" CREATED="2014-12-04T21:32:41.860Z" MIMETYPE="text/xml" SIZE="1074">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="034f754ed1ddda8ca05e6984908f8de97532ebe2"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photograph of woman and two children</dc:title>
+  <dc:subject>World War, 1914-1918</dc:subject>
+  <dc:type>StillImage</dc:type>
+  <dc:type>Photograph</dc:type>
+  <dc:format>nonprojected graphic</dc:format>
+  <dc:format>1 photograph : b&amp;w print ; 6.3 x 6 cm</dc:format>
+  <dc:identifier>yul:271211</dc:identifier>
+  <dc:identifier>other: ASC19515</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Beer family fonds (F0375)--http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</dc:relation>
+  <dc:rights>Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="DC Record" CREATED="2014-12-08T21:47:12.220Z" MIMETYPE="text/xml" SIZE="1285">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="d0a56591496530d5b63e3a7ec311533a40a767a3"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Photograph of woman and two children</dc:title>
+  <dc:subject>World War, 1914-1918</dc:subject>
+  <dc:description>Consists of photograph of a woman, possibly Vivien Beer, with two children, sitting on the front steps of a house.</dc:description>
+  <dc:contributor>[Beer, Vivien] (Depicted)</dc:contributor>
+  <dc:type>StillImage</dc:type>
+  <dc:type>Photograph</dc:type>
+  <dc:format>nonprojected graphic</dc:format>
+  <dc:format>1 photograph : b&amp;w print ; 6.3 x 6 cm</dc:format>
+  <dc:identifier>yul:271211</dc:identifier>
+  <dc:identifier>other: ASC19515</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:relation>Beer family fonds (F0375)--http://archivesfa.library.yorku.ca/fonds/ON00370-f0000375.htm</dc:relation>
+  <dc:rights>Digital copy created for preservation and access purposes.  Available by request for research purposes only.  All other uses must be cleared by patron through copyright holders.  For further details contact ascproj@yorku.ca</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="POLICY" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="POLICY.0" LABEL="XACML Policy Stream" CREATED="2014-12-04T21:32:41.860Z" MIMETYPE="text/xml" SIZE="3417">
+<foxml:xmlContent>
+<Policy xmlns="urn:oasis:names:tc:xacml:1.0:policy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" PolicyId="islandora-xacml-editor-v1" RuleCombiningAlgId="urn:oasis:names:tc:xacml:1.0:rule-combining-algorithm:first-applicable">
+  <Target>
+    <Subjects>
+      <AnySubject></AnySubject>
+    </Subjects>
+    <Resources>
+      <AnyResource></AnyResource>
+    </Resources>
+    <Actions>
+      <AnyAction></AnyAction>
+    </Actions>
+  </Target>
+  <Rule RuleId="deny-dsid-mime" Effect="Deny">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <Resource>
+          <ResourceMatch MatchId="urn:oasis:names:tc:xacml:1.0:function:string-equal">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">OBJ</AttributeValue>
+            <ResourceAttributeDesignator DataType="http://www.w3.org/2001/XMLSchema#string" AttributeId="urn:fedora:names:fedora:2.1:resource:datastream:id"></ResourceAttributeDesignator>
+          </ResourceMatch>
+        </Resource>
+      </Resources>
+      <Actions>
+        <Action>
+          <ActionMatch MatchId="urn:oasis:names:tc:xacml:1.0:function:string-equal">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">urn:fedora:names:fedora:2.1:action:id-getDatastreamDissemination</AttributeValue>
+            <ActionAttributeDesignator AttributeId="urn:fedora:names:fedora:2.1:action:id" DataType="http://www.w3.org/2001/XMLSchema#string"></ActionAttributeDesignator>
+          </ActionMatch>
+        </Action>
+      </Actions>
+    </Target>
+    <Condition FunctionId="urn:oasis:names:tc:xacml:1.0:function:not">
+      <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:or">
+        <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-at-least-one-member-of">
+          <SubjectAttributeDesignator DataType="http://www.w3.org/2001/XMLSchema#string" MustBePresent="false" AttributeId="urn:fedora:names:fedora:2.1:subject:loginId"></SubjectAttributeDesignator>
+          <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-bag">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">nruest</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">fedoraAdmin</AttributeValue>
+          </Apply>
+        </Apply>
+        <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-at-least-one-member-of">
+          <SubjectAttributeDesignator DataType="http://www.w3.org/2001/XMLSchema#string" MustBePresent="false" AttributeId="fedoraRole"></SubjectAttributeDesignator>
+          <Apply FunctionId="urn:oasis:names:tc:xacml:1.0:function:string-bag">
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">administrator</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">Islandora administrator</AttributeValue>
+            <AttributeValue DataType="http://www.w3.org/2001/XMLSchema#string">Islandora creator</AttributeValue>
+          </Apply>
+        </Apply>
+      </Apply>
+    </Condition>
+  </Rule>
+  <Rule RuleId="allow-everything-else" Effect="Permit">
+    <Target>
+      <Subjects>
+        <AnySubject></AnySubject>
+      </Subjects>
+      <Resources>
+        <AnyResource></AnyResource>
+      </Resources>
+      <Actions>
+        <AnyAction></AnyAction>
+      </Actions>
+    </Target>
+  </Rule>
+</Policy>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="TN" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="TN.0" LABEL="" CREATED="2014-12-04T21:33:15.944Z" MIMETYPE="text/xml" SIZE="1">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="b858cb282617fb0956d960215c8e84d1ccf909c6"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:15.944Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.1" LABEL="" CREATED="2014-12-04T21:33:16.345Z" MIMETYPE="text/xml" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:16.345Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.2" LABEL="Thumbnail" CREATED="2014-12-04T21:33:16.703Z" MIMETYPE="text/xml" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:16.703Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.3" LABEL="Thumbnail" CREATED="2014-12-04T21:33:17.056Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:17.056Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.4" LABEL="Thumbnail" CREATED="2014-12-04T21:33:32.149Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:32.149Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.5" LABEL="Thumbnail" CREATED="2014-12-04T21:33:32.531Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:32.531Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.6" LABEL="Thumbnail" CREATED="2014-12-04T21:33:32.881Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:32.881Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.7" LABEL="Thumbnail" CREATED="2014-12-04T21:33:33.136Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:33.136Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.8" LABEL="Thumbnail" CREATED="2014-12-04T21:33:33.259Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:33.259Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="TN.9" LABEL="Thumbnail" CREATED="2014-12-04T21:33:33.598Z" MIMETYPE="image/jpeg" SIZE="47406">
+<foxml:contentDigest TYPE="SHA-1" DIGEST="6329291826b33d7d1649aa04b49379209f29c984"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://localhost:8080/fedora/get/yul:271211/TN/2014-12-04T21:33:33.598Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>
