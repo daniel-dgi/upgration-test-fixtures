@@ -1,6 +1,6 @@
 # Test fixtures for fcrepo migration testing
 
-Objects in the `Export - Migrate` where exported using the Fedora Admin interface. FOXML-1.1 was selected as the format, and "Migrate" was selected as the context.
+Objects in the `Export - Migrate` were exported using the Fedora Admin interface. FOXML-1.1 was selected as the format, and "Migrate" was selected as the context.
 
 Objects consist of:
 
